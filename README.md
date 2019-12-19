@@ -1,8 +1,26 @@
 noteshrinkMacAndWin
-==========
-# 
+# --------# --------# --------# --------# --------
+# Additional
+1. Supports PDF file generation under Windows environment
+## Usage
+```
+./noteshrinkMacAndWin.py IMAGE1 [IMAGE2 ...]
+```
+# Example comments on additional features
+  The logic is sandwiched between start and END.
+# Append
+## Start Comments → # Windows Append Start
+## End Comments   → # Windows Append End
 
-# Original_SOURCE_Below
+# Modify
+## Start Comments → # Windows Modify Start
+## End Comments   → # Windows Modify End
+
+# --------# --------# --------# --------# --------
+# Original
+# --------# --------# --------# --------# --------
+noteshrink
+
 Convert scans of handwritten notes to beautiful, compact PDFs -- see full writeup at <https://mzucker.github.io/2016/09/20/noteshrink.html>
 
 ## Requirements
