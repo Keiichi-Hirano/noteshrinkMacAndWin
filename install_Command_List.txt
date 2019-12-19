@@ -1,35 +1,15 @@
+# Pipの最新化
+pip install --upgrade pip
+
+# 数値計算ライブラリ(numpy)をインストール
 pip install numpy
+
+# Pythonの画像処理ライブラリPillow(PIL)をインストール
 pip install Image
+
+# 科学計算ライブラリ(scipy)をインストール
 pip install scipy
 
-��Windsows�ʍ��
+# Install is required if the OS is Windows
+# 画像をPDFに埋め込むライブラリ(img2pdf)をインストール
 pip install img2pdf
-
-    pdfFileName = "output.pdf"
-    path = "C:\\python\\pdf"
-    ext  = ".png"
-
-    with open(pdfFileName, "wb") as f:
-        f.write(img2pdf.convert([i for i in os.listdir(path)if i.endswith(ext)]))
-
-        print('running PDF command "{}"...'.format(cmd_print))
-
-#        if os.name = 'nt':
-#            pdfFileName = "output.pdf"
-#            path = "C:\\python\\pdf"
-#            ext  = ".png"
-#
-#            with open(pdfFileName, "wb") as f:
-#                f.write(img2pdf.convert([i for i in os.listdir(path)if i.endswith(ext)]))
-#
-#        else:
-
-    if os.name == 'nt':
-
-    if not options.quiet:
-        print('running PDF command "{}"...'.format(cmd_print))
-
-    try:
-        result = subprocess.call(shlex.split(cmd))
-    except OSError:
-        result = -1
