@@ -1,6 +1,8 @@
-noteshrink
+noteshrinkMacAndWin
 ==========
+# 
 
+# Original_SOURCE_Below
 Convert scans of handwritten notes to beautiful, compact PDFs -- see full writeup at <https://mzucker.github.io/2016/09/20/noteshrink.html>
 
 ## Requirements
