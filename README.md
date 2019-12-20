@@ -18,8 +18,8 @@ noteshrinkMacAndWin
 ```
 
 # 手順
-本パッケージをダウンロード、Install_Command_List.mdの記載に従い、必要なPythonライブラリをインストールを実施
-各インストールが完了したら、コマンドラインよりUsage記載の通り、コマンドラインにて実行を行う。
+本パッケージをダウンロード、Install_Command_List.mdの記載に従い、必要なPythonライブラリのインストールを実施
+各ライブラリのインストールが完了したら、コマンドラインよりUsage記載の通り、コマンドラインにて実行を行う。
 
 # Original
 noteshrink
