@@ -5,8 +5,8 @@ noteshrinkMacAndWin
 # Example comments on additional features
   The logic is sandwiched between start and END.
 ## Append
-  Start Comments → # For Windows Append Start
-  End Comments   → # For Windows Append End
+Start Comments → # For Windows Append Start
+End Comments   → # For Windows Append End
 
 ## Modify
   Start Comments → # For Windows Modify Start
