@@ -18,7 +18,7 @@ noteshrinkMacAndWin
 ```
 
 # 手順
-本パッケージをダウンローズ、Install_Command_List.txtの記載に従い、必要なPythonライブラリをインストールを実施
+本パッケージをダウンロード、Install_Command_List.txtの記載に従い、必要なPythonライブラリをインストールを実施
 各インストールが完了したら、コマンドラインよりUsage記載の通り、コマンドラインにて実行を行う。
 
 # Original
