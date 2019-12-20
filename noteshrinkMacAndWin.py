@@ -16,9 +16,9 @@ import re
 import subprocess
 import shlex
 
-# Windows append start
+# For Windows append start
 import img2pdf
-# Windows append end
+# For Windows append end
 
 from argparse import ArgumentParser
 
@@ -525,7 +525,7 @@ def emit_pdf(outputs, options):
 #    except OSError:
 #        result = -1
 #---------#---------#---------
-# Windows append start        
+# For Windows append start        
     if os.name == 'nt':
 #        print(os.name)
 #        print(cmd.join(outputs))
@@ -541,7 +541,7 @@ def emit_pdf(outputs, options):
         except OSError:
             result = -1
     else:
-# Windows append end
+# For Windows append end
         
         if not options.quiet:
             print('running PDF command "{}"...'.format(cmd_print))

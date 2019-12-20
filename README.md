@@ -5,12 +5,12 @@ noteshrinkMacAndWin
 # Example comments on additional features
   The logic is sandwiched between start and END.
 ## Append
-  Start Comments → # Windows Append Start
-  End Comments   → # Windows Append End
+  Start Comments → # For Windows Append Start
+  End Comments   → # For Windows Append End
 
 ## Modify
-  Start Comments → # Windows Modify Start
-  End Comments   → # Windows Modify End
+  Start Comments → # For Windows Modify Start
+  End Comments   → # For Windows Modify End
 
 ## Usage
 ```
@@ -18,7 +18,7 @@ noteshrinkMacAndWin
 ```
 
 # 手順
-本パッケージをダウンロード、Install_Command_List.txtの記載に従い、必要なPythonライブラリをインストールを実施
+本パッケージをダウンロード、Install_Command_List.mdの記載に従い、必要なPythonライブラリをインストールを実施
 各インストールが完了したら、コマンドラインよりUsage記載の通り、コマンドラインにて実行を行う。
 
 # Original
