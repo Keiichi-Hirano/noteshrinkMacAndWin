@@ -1,5 +1,7 @@
 # Pipの最新化
 pip install --upgrade pip
+※Pipが使えない場合、以下のURLを参照しPath設定をしてください。
+https://qiita.com/huushihi/items/c7f578bf51c0017c9076
 
 # 数値計算ライブラリ(numpy)をインストール
 pip install numpy
