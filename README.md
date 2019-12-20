@@ -33,9 +33,8 @@ End Comments
 本パッケージをダウンロード、Install_Command_List.mdの記載に従い、必要なPythonライブラリのインストールを実施
 各ライブラリのインストールが完了したら、コマンドラインよりUsage記載の通り、コマンドラインにて実行を行う。
 
-# Original
-noteshrink
-https://github.com/mzucker/noteshrink
+# Original Source 
+noteshrink at https://github.com/mzucker/noteshrink
 
 Convert scans of handwritten notes to beautiful, compact PDFs -- see full writeup at <https://mzucker.github.io/2016/09/20/noteshrink.html>
 
